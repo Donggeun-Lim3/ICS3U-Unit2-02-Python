@@ -19,7 +19,7 @@ def main():
 
     # output
     print("")
-    print("Area is {}mm2".format(area))
+    print("Area is {}mm²".format(area))
     print("Perimeter is {}mm".format(perimeter))
 
 
